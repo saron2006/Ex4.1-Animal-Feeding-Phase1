@@ -61,7 +61,7 @@ Edit their speed values and test to see how it looks. Drag all three animals int
 ## PROGRAM :
 
 ## DEVELOPED BY :  SARON XAVIER A
-## REG NO : 212223230107
+## REG NO : 212223230197
 
 
 ## PLAYER CONTROL :
